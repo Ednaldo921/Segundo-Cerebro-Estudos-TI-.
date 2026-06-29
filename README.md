@@ -5,12 +5,14 @@ Tecnologias e Ferramentas Utilizadas nesse projeto :
 Inteligência Artificial : Uso do NotebookLM para geração de resumos, áudio e roteirização .
 Gestão de Conhecimento: Conceitos de "Segundo Cérebro" e "Mentalidade de Crescimento" .
 GitHub: Como plataforma de portfólio e controle de versão
+Youtube e Google : Como fontes de pesquisas .
 Objetivo do projeto :
 Este repositório tem como objetivo guia para conquistar o primeiro estágio ou emprego em tecnologia. O projeto utiliza a metodologia de "Segundo Cérebro", onde organizei informações de especialistas do mercado para criar um guia prático de consulta.
 Artefatos do Projeto: 
 Uso de IA : Utilizei NotebookLM como uma ferramenta estratégica para sintetizar as informações das fontes que passei . 
-🎥 Vídeo Explicativo MP4: Uma visão geral sobre as áreas mais aquecidas em TI
+🎥 Vídeo Explicativo MP4: Uma visão geral sobre as áreas mais aquecidas em TI.
 🎙️ Audio Overview: Um podcast gerado por IA sintetizando as dicas de recrutadores .
+📄Guia Estratégico_ Ingresso e Ascensão na Carreira de Tecnologia da Informação : Este documento foi gerado a partir da análise de materiais educativos de especialistas como Gustavo Guanabara (Curso em Vídeo), Bruno Germano, Daniel Carneiro e portais como G1 e Alura, onde fornece dicas de como começa na área de ti , e também dicas e soft skills.
 📊 Carreira em TI - Engenharia.pdf: Guia visual sobre engenharia de carreira para juniores.
 Fontes Utilizadas:
 Cursos e palestras de Gustavo Guanabara (Curso em Vídeo)
