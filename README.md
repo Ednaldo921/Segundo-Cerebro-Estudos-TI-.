@@ -11,7 +11,7 @@ Artefatos do Projeto:
 Uso de IA : Utilizei NotebookLM como uma ferramenta estratégica para sintetizar as informações das fontes que passei . 
 🎥 Vídeo Explicativo MP4: Uma visão geral sobre as áreas mais aquecidas em TI
 🎙️ Audio Overview: Um podcast gerado por IA sintetizando as dicas de recrutadores .
-📊 Slide Deck PDF: Guia visual sobre engenharia de carreira para juniores.
+📊 Carreira em TI - Engenharia.pdf: Guia visual sobre engenharia de carreira para juniores.
 Fontes Utilizadas:
 Cursos e palestras de Gustavo Guanabara (Curso em Vídeo)
 Dicas de carreira de Bruno Germano e Daniel Carneiro
