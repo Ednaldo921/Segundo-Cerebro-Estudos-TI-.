@@ -1,5 +1,5 @@
 # Segundo-Cerebro-Estudos-TI-.
-Criando um segundo cérebro de Como entra na área de TI, e passos que você deve seguir , utilizando como guia o notebooklm.
+Criando um segundo cérebro de Como entra na área de TI, e passos que você deve seguir , utilizando como guia a IA.
 Esse repositório é focado em organizar os passos para entrar na área de TI, Nele contém informações que pode guiar nessa jornada .
 Tecnologias e Ferramentas Utilizadas nesse projeto : 
 Inteligência Artificial : Uso do NotebookLM para geração de resumos, áudio e roteirização .
